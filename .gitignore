@@ -1,0 +1,5 @@
+.preview-profile/
+__pycache__/
+*.log
+.git-empty-backup
+.preview-profile-cdp/
